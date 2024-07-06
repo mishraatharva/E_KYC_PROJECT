@@ -1,0 +1,12 @@
+numpy
+opencv-python
+matplotlib
+pandas
+ipykernel
+keras_ocr
+easyocr
+tensorflow
+deepface
+streamlit
+mysql-connector-python
+sqlalchemy
