@@ -11,14 +11,6 @@ from mysqldb_operations import insert_records, fetch_records, check_duplicacy
 from sqlalchemy import create_engine
 from sqlalchemy.orm import sessionmaker
 
-# {
-#   "ID": "CCNPA",
-#   "Name": "BIBEK RAUTH",
-#   "Father's Name": "AJAY RAUTH",
-#   "DOB": "14/09/1994",
-#   "ID Type": "PAN"
-# }
-
 
 logging_str = "[%(asctime)s: %(levelname)s: %(module)s]: %(message)s"
 log_dir = "logs"
